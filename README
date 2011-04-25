@@ -1,22 +1,44 @@
-== NTHMP Tsunami Benchmark Problems -- Wiki Repository ==
+== NTHMP Tsunami Benchmark Problems ==
 
-* Volunteer BP Stewards are listed below for each Benchmark Problem, as part of the BP folder name.
+To download all files in this repository, click on "Downloads" near the top
+of this page and select tar or zip format.
 
-* Contact a BP Steward through the e-mail address distributed with the Workshop Notes by Bill Knight and Rick Wilson.
 
-* Stewards are responsible for organizing BP material to facilitate other modelers that want to run the BP.    For example ...
+Volunteer BP Stewards are listed below for each Benchmark Problem,
+as part of the BP folder name.
+
+
+Contact a BP Steward through the e-mail address distributed with
+the Workshop Notes by Bill Knight and Rick Wilson.
+
+
+Stewards are responsible for organizing BP material to facilitate
+other modelers that want to run the BP.    For example ...
 
 1. README file with an overview
 2. Problem description
 3. Explanatory figures
-4. Test case parameters required by the NTHMP Mapping and Modeling Subcommittee for model approval
+4. Test case parameters required by the NTHMP Mapping and Modeling 
+   Subcommittee for model approval
 5. Input data needed to run the BP
 6. ..., etc.
 
-* Stewards should:
 
-1. Organize the BP material in a folder on their own computer ... subfolders and any type of file or document can be used, including documents with URL hyperlinks to material at other sites.
+Stewards should:
+----------------
+
+1. Organize the BP material in a folder on their own computer ...
+subfolders and any type of file or document can be used, including
+documents with URL hyperlinks to material at other sites.
 
 2. Compress the folder ... tar or zip, e.g.
 
-3. Send the file to our BP Wiki Webmaster, Paul Chamberlain ( pmc22 at uw.edu ) for uploading to your BP Wiki Folder, with a copy to Frank Gonzalez ( figonzal at u.washington.edu )
+3. Send the file to our BP Wiki Webmaster, Paul Chamberlain ( pmc22
+at uw.edu ) for uploading to your BP Wiki Folder, with a copy to
+Frank Gonzalez ( figonzal at u.washington.edu )
+
+
+If you want to create your own GitHub account and be able to check things
+directly into the repository using Git, see the tips at
+    https://github.com/clawpack/doc/wiki/GitInfo
+and then notify us of your GitHub account name.
