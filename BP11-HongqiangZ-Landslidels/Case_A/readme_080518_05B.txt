@@ -1,0 +1,18 @@
+W080518_05B.dat: Time-series of water surface elevations.
+3 columns:
+1) time (s)
+2) upstream gage measurements (mm), depth=109 mm.
+3) downstream gage measurements (mm), depth=199 mm.
+
+
+V080518_05B.dat: Time-series of water velocities. Still water depth at measurement section=161.4 mm.
+11 columns:
+1) time (s)
+2-6) horizontal velocities (m/s), at z=-23.144,-50.247,-79.349,-108.45,-137.55 (mm) (z=0 at still water surface)
+7-11) vertical velocities (m/s), at z=-23.144,-50.247,-79.349,-108.45,-137.55 (mm)
+
+
+S0518_05B.dat: Time-series of landslide displacements.
+2 columns:
+1) time (s)
+2) displacement (mm)
